@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/private/
+
+Sitemap: https://jigsi-karia.vercel.app/sitemap.xml
